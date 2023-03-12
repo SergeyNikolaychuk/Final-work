@@ -1,5 +1,5 @@
 # Final-work
 
-![](https://github.com/Final-work/Scheme.png)
+![](Final-work/Scheme.png)
 
 
