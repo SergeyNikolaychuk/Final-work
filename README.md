@@ -1,5 +1,5 @@
 # Final-work
 
-![](C:\Users\Сергей\Desktop\Csh_homework\Final-work\Scheme.png)
+![](https://github.com/SergeyNikolaychuk/Final-work/blob/main/Scheme.png)
 
 
